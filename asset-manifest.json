@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinner-with-you/static/css/main.826f3230.css",
+    "main.js": "/dinner-with-you/static/js/main.8027c470.js",
+    "static/js/453.ab6eada9.chunk.js": "/dinner-with-you/static/js/453.ab6eada9.chunk.js",
+    "index.html": "/dinner-with-you/index.html",
+    "main.826f3230.css.map": "/dinner-with-you/static/css/main.826f3230.css.map",
+    "main.8027c470.js.map": "/dinner-with-you/static/js/main.8027c470.js.map",
+    "453.ab6eada9.chunk.js.map": "/dinner-with-you/static/js/453.ab6eada9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826f3230.css",
+    "static/js/main.8027c470.js"
+  ]
+}
